@@ -1,5 +1,5 @@
 #[starknet::interface]
-trait IAuction<T> {
+pub trait IAuction<T> {
     fn register_item(ref self: T, item_name: felt252);
 
     fn unregister_item(ref self: T, item_name: felt252);
