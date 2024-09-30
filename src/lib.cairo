@@ -1,1 +1,1 @@
-mod Auction;
+mod auction;
