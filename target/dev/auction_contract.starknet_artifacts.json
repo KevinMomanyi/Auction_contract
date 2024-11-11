@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"bq3f387qrn4ke","package_name":"auction_contract","contract_name":"Auction","module_path":"auction_contract::auction::Auction","artifacts":{"sierra":"auction_contract_Auction.contract_class.json","casm":null}}]}
